@@ -26,8 +26,8 @@
   * 任务管理账号密码：admin/123456
 * **演示环境有全方位的监控示例：日志系统 + APM系统 + GPE系统**
 
-* Gitee地址：https://gitee.com/catshen/mallcloud-platform
-* Github地址：https://github.com/shenzhuan/mallcloud
+* Gitee地址：https://gitee.com/catshen/zscat_sw
+* 单体版本地址：https://gitee.com/zscat/mallplus
 
 * 前后端分离的企业级微服务架构
 * 基于`Spring Boot 2.0.X`、`Spring Cloud Finchley`和`Spring Cloud Alibaba`
